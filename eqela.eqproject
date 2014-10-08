@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Sprtest4
+#
+
+projectname: Sprtest4
+vendorid: com.lawrence.test
+mainmodule: com.lawrence.test.sprtest4
